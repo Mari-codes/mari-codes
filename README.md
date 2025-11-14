@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/mariana-static.svg" width="200" alt="Mariana Borges"/>
+  <img src="assets/banners/mariana-static.svg" width="200" alt="Mariana Borges"/>
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/mari-codes-dev.png" alt="header" width="150" />
+  <img src="./assets/banners/mari-codes-dev.png" alt="girl coding" width="150" />
 </p>
 
 
