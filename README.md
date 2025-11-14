@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=5500&pause=1000&color=21F7E8&center=true&width=460&lines=Front-End+Developer;Full-Stack+Enthusiast;Passionate+about+Web+Development;%E2%9C%A8+Turning+Ideas+into+Reality"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=5500&pause=1000&color=21F7E8&center=true&width=460&lines=Front-End+Developer;Full-Stack+Enthusiast;Passionate+about+Web+Development;%E2%9C%A8+Crafting+Magic+with+Code+%E2%9C%A8"/>
 </p>
 
 <p align="center">
@@ -20,6 +20,11 @@
   <a href="https://t.me/iwaimari" style="text-decoration:none; display:inline-block;"><img src="assets/icons/telegram.png" width="32" alt="Telegram" title="Telegram" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.com/users/294582616252743683" style="text-decoration:none; display:inline-block;"><img src="assets/icons/discord.png" width="32" alt="Discord" title="Discord" /></a>
+</p>
+
+<p align="center">
+Hey, I'm <b>Mari</b>. I turn curiosity and creativity into code. I love experimenting, creating, and making ideas real.<br>
+Got a cool project? <i>Let’s make it happen!</i>
 </p>
 
 
