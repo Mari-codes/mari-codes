@@ -1,3 +1,16 @@
+<p align="center">
+  <img src="assets/mariana-static.svg" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=21F7E8&center=true&width=480&lines=Front-End+Developer;Full-Stack+Enthusiast;Passionate+about+Web+Development;%E2%9C%A8+Turning+Ideas+into+Reality"/>
+</p>
+
+<p align="center">
+  <img src="./assets/mari-codes-dev.png" alt="header" width="180" />
+</p>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari-codes/mari-codes/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari-codes/mari-codes/output/github-contribution-grid-snake.svg">
