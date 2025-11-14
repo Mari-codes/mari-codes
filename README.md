@@ -10,6 +10,18 @@
   <img src="./assets/banners/mari-codes-dev.png" alt="girl coding" width="150" />
 </p>
 
+<p align="center" style="line-height:0;">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" style="text-decoration:none; display:inline-block;"><img src="assets/icons/linkedin.png" width="32" alt="LinkedIn" title="LinkedIn" /></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="mailto:dev.mari.codes@gmail.com" style="text-decoration:none; display:inline-block;"><img src="assets/icons/e-mail.png" width="32" alt="Email" title="Email" /></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://wa.me/5542999901732" style="text-decoration:none; display:inline-block;"><img src="assets/icons/whatsapp.png" width="32" alt="WhatsApp" title="WhatsApp" /></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://t.me/iwaimari" style="text-decoration:none; display:inline-block;"><img src="assets/icons/telegram.png" width="32" alt="Telegram" title="Telegram" /></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.com/users/294582616252743683" style="text-decoration:none; display:inline-block;"><img src="assets/icons/discord.png" width="32" alt="Discord" title="Discord" /></a>
+</p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari-codes/mari-codes/output/github-contribution-grid-snake-dark.svg">
