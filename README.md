@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=5500&pause=1000&color=21F7E8&center=true&width=460&lines=Front-End+Developer;Full-Stack+Enthusiast;Passionate+about+Web+Development;%E2%9C%A8+Crafting+Magic+with+Code+%E2%9C%A8"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=5500&pause=1000&color=21F7E8&center=true&width=460&lines=Front-End+Developer;Full-Stack+Enthusiast;Passionate+about+Web+Development;Crafting+Magic+with+Code"/>
 </p>
+
 
 <p align="center">
   <img src="./assets/banners/mari-codes-dev.png" alt="girl coding" width="150" />
