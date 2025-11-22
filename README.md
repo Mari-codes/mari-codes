@@ -16,7 +16,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:dev.mari.codes@gmail.com" style="text-decoration:none; display:inline-block;"><img src="assets/icons/e-mail.png" width="32" alt="Email" title="Email" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://wa.me/5542999901732" style="text-decoration:none; display:inline-block;"><img src="assets/icons/whatsapp.png" width="32" alt="WhatsApp" title="WhatsApp" /></a>
+  <a href="https://wa.me/5542999901732" style="text-decoration:none; display:inline-block;"><img src="assets/icons/whatsapp-new.png" width="32" alt="WhatsApp" title="WhatsApp" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/iwaimari" style="text-decoration:none; display:inline-block;"><img src="assets/icons/telegram.png" width="32" alt="Telegram" title="Telegram" /></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
