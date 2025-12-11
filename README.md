@@ -11,7 +11,7 @@
 </p>
 
 <p align="center" style="line-height:0;">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" style="text-decoration:none; display:inline-block;"><img src="https://cdn.jsdelivr.net/gh/Mari-codes/mari-codes@main/assets/icons/linkedin.png" width="32" alt="LinkedIn" title="LinkedIn"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/" style="text-decoration:none; display:inline-block;"><img src="https://cdn.jsdelivr.net/gh/Mari-codes/mari-codes@main/assets/icons/linkedin.png" width="32" alt="LinkedIn" title="LinkedIn"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:dev.mari.codes@gmail.com" style="text-decoration:none; display:inline-block;"><img src="https://cdn.jsdelivr.net/gh/Mari-codes/mari-codes@main/assets/icons/e-mail.png" width="32" alt="Email" title="Email"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://wa.me/5542999901732" style="text-decoration:none; display:inline-block;"><img src="https://cdn.jsdelivr.net/gh/Mari-codes/mari-codes@main/assets/icons/whatsapp-new.png" width="32" alt="WhatsApp" title="WhatsApp"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/iwaimari" style="text-decoration:none; display:inline-block;"><img src="https://cdn.jsdelivr.net/gh/Mari-codes/mari-codes@main/assets/icons/telegram.png" width="32" alt="Telegram" title="Telegram"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
