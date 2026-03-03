@@ -2,7 +2,7 @@
   <img 
     src="https://cdn.jsdelivr.net/gh/Mari-codes/mari-codes@main/assets/banners/mariana-static.svg"
     alt="Mariana Borges"
-    width="250">
+    width="210">
 </div>
 
 <div align="center">
@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=5500&pause=1000&color=21F7E8&center=true&vCenter=true&width=460&lines=Front-End+Developer;Building+across+the+stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=5500&pause=1000&color=21F7E8&center=true&vCenter=true&width=460&lines=Front-End+Developer;Building+across+the+stack" />
 </p>
 
 <p align="center">
