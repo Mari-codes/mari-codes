@@ -1,18 +1,20 @@
-<p align="center">
+<div align="center">
   <picture>
     <source media="(max-width: 600px)" 
-      srcset="https://cdn.jsdelivr.net/gh/Mari-codes/mari-codes@main/assets/banners/mariana-static.svg"
-      width="160">
+      srcset="https://cdn.jsdelivr.net/gh/Mari-codes/mari-codes@main/assets/banners/mariana-static.svg">
     <img 
       src="https://cdn.jsdelivr.net/gh/Mari-codes/mari-codes@main/assets/banners/mariana-static.svg"
       alt="Mariana Borges"
       width="240">
   </picture>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Mari-codes/mari-codes@main/assets/banners/mari-avatar.png" alt="Mari Codes Avatar" width="260"/>
-</p>
+<div align="center">
+  <img 
+    src="https://cdn.jsdelivr.net/gh/Mari-codes/mari-codes@main/assets/banners/mari-avatar.png" 
+    alt="Mari Codes Avatar" 
+    width="260"/>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=5500&pause=1000&color=21F7E8&center=true&vCenter=true&width=460&lines=Front-End+Developer;Building+across+the+stack" />
