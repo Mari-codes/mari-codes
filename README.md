@@ -1,12 +1,8 @@
 <div align="center">
-  <picture>
-    <source media="(max-width: 600px)" 
-      srcset="https://cdn.jsdelivr.net/gh/Mari-codes/mari-codes@main/assets/banners/mariana-static.svg">
-    <img 
-      src="https://cdn.jsdelivr.net/gh/Mari-codes/mari-codes@main/assets/banners/mariana-static.svg"
-      alt="Mariana Borges"
-      width="240">
-  </picture>
+  <img 
+    src="https://cdn.jsdelivr.net/gh/Mari-codes/mari-codes@main/assets/banners/mariana-static.svg"
+    alt="Mariana Borges"
+    width="250">
 </div>
 
 <div align="center">
