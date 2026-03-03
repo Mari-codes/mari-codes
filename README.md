@@ -29,11 +29,3 @@ Sometimes both.
   <a href="https://wa.me/5542999901732" style="text-decoration:none; display:inline-block;"><img src="https://cdn.jsdelivr.net/gh/Mari-codes/mari-codes@main/assets/icons/whatsapp-new.png" width="26" alt="WhatsApp" title="WhatsApp"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.com/users/294582616252743683" style="text-decoration:none; display:inline-block;"><img src="https://cdn.jsdelivr.net/gh/Mari-codes/mari-codes@main/assets/icons/discord.png" width="26" alt="Discord" title="Discord"/></a>
 </p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Mari-codes/mari-codes@output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Mari-codes/mari-codes@output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://cdn.jsdelivr.net/gh/Mari-codes/mari-codes@output/github-contribution-grid-snake.svg" width="600"/>
-  </picture>
-</p>
