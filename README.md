@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Mari-codes/mari-codes@main/assets/banners/mariana-static.svg" width="250" alt="Mariana Borges"/>
+  <img src="https://cdn.jsdelivr.net/gh/Mari-codes/mari-codes@main/assets/banners/mariana-static.svg" width="200" alt="Mariana Borges"/>
 </p>
 
 <p align="center">
